@@ -18,6 +18,6 @@
   "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
   "version": "1.0.0",
   "author": "etjecode",
-  "license": "ISC",
+  "license": "MIT",
   "keywords": ["freecodecamp", "boilerplate", "node", "npm"]
 }
